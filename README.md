@@ -2,12 +2,12 @@
 
 #### 活動介紹
 我們與 R，並不遙遠！只需要連續七天跟著 R-Ladies Taipei 進入精神時光屋一起破任務拿龍珠，七天後擁有七顆龍珠的妳就可以跟我們一起尋找神龍！
-很適合「攻城師」不敵壞人時使用，在精神時間屋中的七天，每天花1-2小時的Kaggle實戰修煉，妳也能成為資料分析女賽亞人！
+很適合「攻城師」不敵壞人時使用，在精神時間屋中的七天，每天花 1-2 小時的 Kaggle 實戰修煉，妳也能成為資料分析女賽亞人！
 
 #### 教學文件
 + Day 0 :
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Introduction.pdf"> Introduction </a>
-  - Github
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Github.pdf"> Github </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_AzureNotebook.pdf"> Azure Notebook </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Dataset.pdf"> Kaggle & Data Set </a>
 + Day 1 (8/18) : Data Wrangling & Data Cleaning 
