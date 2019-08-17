@@ -8,6 +8,8 @@
 + Day 0 :
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Introduction.pdf"> Introduction </a>
   - Github
+  - <a href=https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_AzureNotebook.pdf""> Azure Notebook </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Dataset.pdf"> Kaggle & Data Set </a>
 + Day 1 (8/18) : Data Wrangling & Data Cleaning 
 + Day 2 (8/19) : Exploratory Data Analysis
 + Day 3 (8/20) : Feature Engineering
