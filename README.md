@@ -7,6 +7,7 @@
 #### 教學文件
 + Day 0 :
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Introduction.pdf"> Introduction </a>
+  - Github
 + Day 1 (8/18) : Data Wrangling & Data Cleaning 
 + Day 2 (8/19) : Exploratory Data Analysis
 + Day 3 (8/20) : Feature Engineering
@@ -15,4 +16,4 @@
 + Day 6 (8/23) : Performance Evaluation 
 + Day 7 (8/24) : Shiny  
 
-> [Note] <a href="https://rladiestaipei.kktix.cc/events/r-dragon-ball"購票連結</a>
+> [Note] <a href="https://rladiestaipei.kktix.cc/events/r-dragon-ball">購票連結</a>
