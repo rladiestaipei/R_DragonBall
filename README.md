@@ -1,5 +1,4 @@
-# <a href="https://rladiestaipei.github.io/R_DragonBall/">R_DragonBall</a>
-我們與 R 的距離 -- R-Ladies Taipei 七日馬拉松
+![image](https://raw.githubusercontent.com/rladiestaipei/R_DragonBall/master/R_DragonBall_Banner.png)
 
 + Day 1(8/18) Data Wrangling & Data Cleaning 
 + Day 2(8/19) Exploratory Data Analysis
