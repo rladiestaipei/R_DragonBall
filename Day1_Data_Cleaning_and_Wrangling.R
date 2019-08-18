@@ -97,11 +97,6 @@ dat<-train0%>%
             sd=sd(SalePrice))%>%
   arrange(-average)
 
-#show table
-kable(dat)%>%
-  kable_styling("striped", font_size=12, full_width =F, position = "center") %>%
-  column_spec(c(1), bold=T)
-
 dat<-train0%>%
   group_by(Neighborhood, Street)%>%
   summarise(low=min(SalePrice),
@@ -109,10 +104,6 @@ dat<-train0%>%
             average=mean(SalePrice),
             sd=sd(SalePrice))
 
-#show table
-kable(dat)%>%
-  kable_styling("striped", font_size=12, full_width =F, position = "center") %>%
-  column_spec(c(1), bold=T)
 
 dat<-train0%>%
   group_by(YearBuilt, MasVnrType)%>%
@@ -193,8 +184,11 @@ train<-train0%>%
   left_join(bsmtfintype, by=c("Id"="BsmtFinType_Id"))
 
 datatable(train%>%select(Id, contains("BsmtFinType")))
-             
+
+
 ##------------------------------------------------
 ## 本日小挑戰
 ##------------------------------------------------
 #請挑選training data中1-3個你覺得重要的欄位，或好幾個性質類似的欄位，進行轉換，拆解，或合併（自由發揮）。
+
+
