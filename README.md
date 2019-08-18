@@ -10,7 +10,10 @@
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Github.pdf"> Github </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_AzureNotebook.pdf"> Azure Notebook </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Dataset.pdf"> Kaggle & Data Set </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/dataset.zip"> 我們與 R 的距離 -- 資料集 </a> (解壓縮後即可使用) 
 + Day 1 (8/18) : Data Wrangling & Data Cleaning 
+  - <a href="https://rladiestaipei.github.io/R_DragonBall//Day1_Data_Cleaning_and_Wrangling.html"> 教學文件 </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day1_Data_Cleaning_and_Wrangling.R"> R </a>
 + Day 2 (8/19) : Exploratory Data Analysis
 + Day 3 (8/20) : Feature Engineering
 + Day 4 (8/21) : Models 
@@ -18,4 +21,4 @@
 + Day 6 (8/23) : Performance Evaluation 
 + Day 7 (8/24) : Shiny  
 
-> [Note] <a href="https://rladiestaipei.kktix.cc/events/r-dragon-ball">購票連結</a>
+> [Note] <a href="https://rladiestaipei.kktix.cc/events/r-dragon-ball"> KKTIX 購票連結</a>
