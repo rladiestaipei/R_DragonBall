@@ -1,6 +1,7 @@
 ##---------------- 設定環境 ----------------
 #setwd(dir) #設定working directory的存放位置
-setwd("/Users/hsinyuchan/R_DragonBall/") 
+# MAC : setwd("/Users/rladiestaipei/R_DragonBall/") 
+# Windows : setwd("C://Users/rladiestaipei/Desktop/R_DragonBall/") 
 
 #安裝套件(僅需執行一次)
 #install.packages(c("tidyverse", "ploty", "zoo", "lubridate", "rmarkdown","data.table", "DT", "kableExtra"), dependencies = TRUE)
