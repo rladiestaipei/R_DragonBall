@@ -23,4 +23,12 @@
 + Day 6 (8/23) : Performance Evaluation 
 + Day 7 (8/24) : Shiny  
 
+#### 主辦單位 : <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/">R-Ladies Taipei</a>
+<img src="https://rladiestaipei.github.io/R-Ladies-Taipei/img/profile.png" width="150" height="150" />
+
+#### 特別感謝 : `台灣微軟` 、 `愛料理` 贊助本次活動
+<img src="https://downtownfargo.com/wp-content/uploads/2019/02/Microsoft-2.png" width="160" height="80" />
+&nbsp;&nbsp;
+<img src="https://t.kfs.io/organization_resource_files/12403/29718/iCook_color_logo.png" width="180" height="55" />
+
 > [Note] <a href="https://rladiestaipei.kktix.cc/events/r-dragon-ball"> KKTIX 購票連結</a>
