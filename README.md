@@ -18,6 +18,8 @@
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day2_Exploratory_Data_Analysis.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day2_Exploratory_Data_Analysis.R"> R </a>
 + Day 3 (8/20) : Feature Engineering
+  - <a href="https://rladiestaipei.github.io/R_DragonBall/Day3_Feature_Engineering.html"> 教學文件 </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day3_Feature_Engineering.R"> R </a>
 + Day 4 (8/21) : Models 
 + Day 5 (8/22) : Cross Validation & Hyperparameter Tuning
 + Day 6 (8/23) : Performance Evaluation 
