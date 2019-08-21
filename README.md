@@ -21,6 +21,9 @@
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day3_Feature_Engineering.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day3_Feature_Engineering.R"> R </a>
 + Day 4 (8/21) : Models 
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/dataset_new.zip> 我們與 R 的距離 -- Feature Engineering 後資料集 </a> (解壓縮後即可使用) 
+  - <a href="https://rladiestaipei.github.io/R_DragonBall/Day4_Models.html"> 教學文件 </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day4_Models.R"> R </a>
 + Day 5 (8/22) : Cross Validation & Hyperparameter Tuning
 + Day 6 (8/23) : Performance Evaluation 
 + Day 7 (8/24) : Shiny  
