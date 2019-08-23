@@ -28,6 +28,8 @@
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day5_Cross_Validation_and_Hyperparameter_Tuning.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day5_Cross_Validation_and_Hyperparameter_Tuning.R"> R </a>
 + Day 6 (8/23) : Performance Evaluation 
+  - <a href="https://rladiestaipei.github.io/R_DragonBall/Day6_Performance_Evaluation.html"> 教學文件 </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day6_Performance_Evaluation.R"> R </a>
 + Day 7 (8/24) : Shiny  
 
 #### 主辦單位 : <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/">R-Ladies Taipei</a>
