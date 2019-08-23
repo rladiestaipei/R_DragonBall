@@ -1,5 +1,4 @@
 ##---------------- 設定環境 ----------------
-##---------------- 設定環境 ----------------
 #setwd(dir) #設定working directory的存放位置
 # MAC : setwd("/Users/rladiestaipei/R_DragonBall/") 
 # Windows : setwd("C://Users/rladiestaipei/Desktop/R_DragonBall/")  
