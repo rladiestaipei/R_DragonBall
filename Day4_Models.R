@@ -113,6 +113,8 @@ val_set_new <- val_set %>% dplyr::select(-SalePrice_log)
 cat_index <- which(sapply(training_set_new, class) == "factor")
 training_set_new[cat_index] <- lapply(training_set_new[cat_index], as.numeric)
 val_set_new[cat_index] <- lapply(val_set_new[cat_index], as.numeric)
+###########!!!更正，類別型資料建議用one-hot encoding的方式轉成數值型(參考Day3)，不要直接轉!!!###########
+###########請自行修改###########
 
 # put testing & training data into two seperates Dmatrixs objects
 labels <- training_set$SalePrice_log
