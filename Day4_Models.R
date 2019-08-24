@@ -75,7 +75,7 @@ rmse(val_set$SalePrice_log, y_pred)
 # library(rpart)
 regressor <- rpart(formula = SalePrice_log ~ .,
                    data = training_set,
-                   control = rpart.control(minsplit = 1))
+                   control = rpart.control(minsplit = 10))
 
 # Predicting the Test set results
 y_pred <- predict(regressor, newdata = val_set)
