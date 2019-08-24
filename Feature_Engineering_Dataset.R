@@ -72,7 +72,7 @@ test0 <- test0 %>%
                   BsmtHalfBath = 0, BsmtFinSF1 = 0, BsmtFinSF2 = 0, 
                   BsmtUnfSF = 0, TotalBsmtSF = 0, MasVnrArea = 0))
 test0$LotFrontage[is.na(test0$LotFrontage)] <- median(test0$LotFrontage, na.rm = T)
-test0$GarageYrBlt[is.na(test0$GarageYrBlt)] <- train0$YearBuilt[is.na(test0$GarageYrBlt)]
+test0$GarageYrBlt[is.na(test0$GarageYrBlt)] <- test0$YearBuilt[is.na(test0$GarageYrBlt)]
 test0 <- test0 %>%
   replace_na(list(GarageFinish = "None", GarageQual = "None", 
                   GarageCond = "None", GarageType = "None",
@@ -80,17 +80,11 @@ test0 <- test0 %>%
                   BsmtCond = "None", BsmtFinType1 = "None",
                   BsmtFinType2 = "None", MasVnrType = "None", FireplaceQu="None"))
 test0$Electrical[is.na(test0$Electrical)] <- Mode(test0$Electrical)
-test0$MSZoning[is.na(test0$MSZoning)] <- Mode(test0$MSZoning)
-test0$Utilities[is.na(test0$Utilities)] <- Mode(test0$Utilities)
-test0$Functional[is.na(test0$Functional)] <- Mode(test0$Functional)
-test0$Exterior1st[is.na(test0$Exterior1st)] <- Mode(test0$Exterior1st)
-test0$Exterior2nd[is.na(test0$Exterior2nd)] <- Mode(test0$Exterior2nd)
-test0$KitchenQual[is.na(test0$KitchenQual)] <- Mode(test0$KitchenQual)
-test0$SaleType[is.na(test0$SaleType)] <- Mode(test0$SaleType)
 test0$GrLivArea_stand <- scale(test0$GrLivArea)
 test0$MasVnrArea_stand <- scale(test0$MasVnrArea)
 test0$LotFrontage_log <- log(test0$LotFrontage)
 test0$is_Fireplace <- ifelse(test0$Fireplaces>0, "1", "0")
+Qualities <- c('None' = 0, 'Po' = 1, 'Fa' = 2, 'TA' = 3, 'Gd' = 4)       
 test0$BsmtCond <- as.integer( revalue(test0$BsmtCond, Qualities) )
 test0$TotalBathrooms <- test0$FullBath+(test0$HalfBath*0.5)+test0$BsmtFullBath+(test0$BsmtHalfBath*0.5)
 test0$TotalSF <- test0$TotalBsmtSF + test0$X1stFlrSF + test0$X2ndFlrSF 
