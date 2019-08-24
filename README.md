@@ -32,6 +32,9 @@
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day6_Performance_Evaluation.R"> R </a>
 + Day 7 (8/24) : Shiny  
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day7_shiny.pdf"> 教學文件 </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/tree/master/shiny_easy"> Shiny Code -- Easy </a>
+  - <a href="https://github.com/rladiestaipei/R_DragonBall/tree/master/shiny_advance"> Shiny Code -- Advance </a>
+  
 
 #### 主辦單位 : <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/">R-Ladies Taipei</a>
 <img src="https://rladiestaipei.github.io/R-Ladies-Taipei/img/profile.png" width="150" height="150" />
