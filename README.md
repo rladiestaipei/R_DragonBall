@@ -11,30 +11,35 @@
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_AzureNotebook.pdf"> Azure Notebook </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/R_DragonBall_Dataset.pdf"> Kaggle & Data Set </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/dataset.zip"> 我們與 R 的距離 -- 資料集 </a> (解壓縮後即可使用) 
-+ Day 1 (8/18) : Data Wrangling & Data Cleaning 
++ Day 1 (8/18) : Data Wrangling & Data Cleaning @Tricia
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day1_Data_Cleaning_and_Wrangling.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day1_Data_Cleaning_and_Wrangling.R"> R </a>
-+ Day 2 (8/19) : Exploratory Data Analysis
++ Day 2 (8/19) : Exploratory Data Analysis @包妹
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day2_Exploratory_Data_Analysis.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day2_Exploratory_Data_Analysis.R"> R </a>
-+ Day 3 (8/20) : Feature Engineering
++ Day 3 (8/20) : Feature Engineering @Kristen
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day3_Feature_Engineering.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day3_Feature_Engineering.R"> R </a>
-+ Day 4 (8/21) : Models 
++ Day 4 (8/21) : Models @亭安
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/dataset_new.zip"> 我們與 R 的距離 -- Feature Engineering 後資料集 </a> (解壓縮後即可使用) 
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day4_Models.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day4_Models.R"> R </a>
-+ Day 5 (8/22) : Cross Validation & Hyperparameter Tuning
++ Day 5 (8/22) : Cross Validation & Hyperparameter Tuning @Jamie
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day5_Cross_Validation_and_Hyperparameter_Tuning.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day5_Cross_Validation_and_Hyperparameter_Tuning.R"> R </a>
-+ Day 6 (8/23) : Performance Evaluation 
++ Day 6 (8/23) : Performance Evaluation @Angie 
   - <a href="https://rladiestaipei.github.io/R_DragonBall/Day6_Performance_Evaluation.html"> 教學文件 </a>
   - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day6_Performance_Evaluation.R"> R </a>
-+ Day 7 (8/24) : Shiny  
-  - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day7_shiny.pdf"> 教學文件 </a>
-  - <a href="https://github.com/rladiestaipei/R_DragonBall/tree/master/shiny_easy"> Shiny Code -- Easy </a>
-  - <a href="https://github.com/rladiestaipei/R_DragonBall/tree/master/shiny_advance"> Shiny Code -- Advance </a>
-  
++ Day 7 (8/24)
+  - Shiny @Kristen
+    - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/Day7_shiny.pdf"> 教學文件 </a>
+    - <a href="https://github.com/rladiestaipei/R_DragonBall/tree/master/shiny_easy"> Shiny Code -- Easy </a>
+    - <a href="https://github.com/rladiestaipei/R_DragonBall/tree/master/shiny_advance"> Shiny Code -- Advance </a>
+  - Expert Sharing
+    - <a href="https://www.slideshare.net/changecandy/ml-toolkit-share"> 競賽神器大考察 </a> @陳志明(CM)
+    - <a href="https://github.com/rladiestaipei/R_DragonBall/blob/master/AutoML_Herman.pdf"> AutoML </a> @Herman
+
+
 
 #### 主辦單位 : <a href="https://rladiestaipei.github.io/R-Ladies-Taipei/">R-Ladies Taipei</a>
 <img src="https://rladiestaipei.github.io/R-Ladies-Taipei/img/profile.png" width="150" height="150" />
